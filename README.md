@@ -1,4 +1,4 @@
-# OOP and .NET with C#
+# OOP and .NET with CSharp
 
 ## Tools
 
