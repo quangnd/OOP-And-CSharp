@@ -66,6 +66,14 @@
 
    💁‍  *Inheritance is one of the most important concepts in object-oriented programming, together with encapsulation and polymorphism. Inheritance allows developers to create new classes that reuse, extend, and modify the behavior defined in other classes. This enables code reuse and speeds up development. With inheritance, developers can write and debug one class only once, and then reuse that same code as the basis for the new classes. The class whose members are inherited is called the base class, and the class that inherits those members is called the derived class. By default, all classes in .NET are inheritable.*
 
+10. ❓ **Explain the differences between an Interface and an Abstract Class in .NET.**
+
+    💁‍  *An **interface** merely declares a contract or a behavior that implementing classes should have. It may declare only properties, methods, and events with no access modifiers. All the declared members must be implemented.*
+   
+    *An **abstract** class provides a partial implementation for a functionality and some abstract/virtual members that must be implemented by the inheriting entities. It can declare fields too.*
+
+    *Neither interfaces nor abstract classes can be instantiated.*
+
 # References
 
 1. [13 Essential .NET Interview Questions*](https://www.toptal.com/dot-net/interview-questions)
